@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+##Warren is currently a 3rd-year undergraduate student at New York University studying Psychology on the Pre-Health track. 
+
+##
 <!--
 **warrenbu05/warrenbu05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
