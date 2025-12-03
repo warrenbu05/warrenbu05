@@ -1,5 +1,3 @@
-## Hi there 👋
-
 Warren is currently a 3rd-year undergraduate student at New York University majoring in Psychology with a minor in Child and Adolescent Mental Health Studies. He is on the Pre-Health track, aiming to enter medical school and eventually specialize in psychiatry. 
 
 Warren is also a volunteer research assistant under the guidance of [Dr. Shalaila Haas](https://github.com/shalailahaas). He started in Fall 2025 after being accepted into the [MIND Lab](https://mindlabresearch.com) at the Icahn School of Medicine at Mount Sinai. He is working with his mentors to parse heterogeneity in neurophsyciatric disorders through computational modeling with the hopes of better understanding disease progression and treatment efficacy. Eventually, Warren hopes to understand the neuromorphologic basis of psychiatric disorders so that he can improve clinical care both through research and as a physician.
